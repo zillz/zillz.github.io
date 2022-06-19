@@ -1,2 +1,0 @@
-# zillz.github.io
-blog
